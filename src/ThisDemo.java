@@ -31,6 +31,6 @@ class ThisDemo{
         p.speak();
         Person p1=new Person("Wang cai");
         p1.speak();
-        Person newPerson = new Person();
+        Person newPerson2 = new Person();
     }
 }
