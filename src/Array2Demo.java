@@ -4,6 +4,6 @@ public class Array2Demo {
 
         System.out.println(arr);//直接打印二维数组
         System.out.println(arr[0]);//打印二维数组中的教表为零的一维数组
-        System.out.println(arr[0][0]);
+        System.out.println(arr[1][1]);
     }
 }
